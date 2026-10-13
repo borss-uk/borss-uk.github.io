@@ -1,0 +1,32 @@
+tags:: #Bącznik #Krajoznawstwo
+
+- ### Młynarze sprzed 1945 roku
+	- **[[Jürgen Agen]]** (fl. 1730–1732)
+		- Jest pierwszym młynarzem z Dieckmühl, jakiego udało mi się odnaleźć. Procesował się o naprawę płotu parafialnego z mieszkańcami [[Stawno]].
+		- Archiwalia: [1730](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/7924458) (65/36/0/4.1/9058)
+	- **NN Zahl** (fl. 1806–1808)
+		- Nieznany z imienia, znany zaś z tego, że dzierżawił działki i dostarczał Francuzom deski na budowę lazaretu i kuchni polowej.
+		- Archiwalia: [1806](https://ariadne-portal.uni-greifswald.de/?s=Dieckm%C3%BChle&arc=3&stc=10414&cls=151386&cont=&digi=0) (LA Greifswald, 012.01/358/18), [1808](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8037534) (65/218/0/29.4/8873)
+	- **[[Johann Friedrich Wilhelm Zahl]]** (ur. ok. 1790, zm. 7 października 1872, Diedrichsdorf)
+		- W 1825 po raz pierwszy określony jako „dziedzic i mistrz młyński”. Żonaty z Charlotte Sophią Johanną Friedericke Bergen (zob. drzewo genealogiczne na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GG7D-LK3)).
+		- Archiwalia: [1854](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8034647) (65/218/0/14.26/4457)
+		- Metrykalia: [1825](https://www.familysearch.org/ark:/61903/1:1:6ZCW-QCKH), [1827](https://www.familysearch.org/ark:/61903/1:1:6ZCW-52V3), [1831](https://www.familysearch.org/ark:/61903/1:1:6ZCW-GRVM), [1848](https://www.familysearch.org/ark:/61903/1:1:6Z6Q-2M4R)
+	- **[[Johann Friedrich Ferdinand Zahl]]** (ur. 16 lipca 1827, Diedrichsdorf)
+		- W 1853 określony jako „właściciel młyna w Dieckmühle”. Syn [[Johann Friedrich Wilhelm Zahl]], żonaty z Emilie Friederike Sophie Beyersdorf (zob. drzewo genealogiczne na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GG76-3YY)). Wdał się w niekończący się ciąg procesów sądowych ze stargardzkim magistratem – najpierw o most, który wybudował sobie nad Iną, a później o prowadzącą do niego drogę. Z przeprawy chętnie korzystali okoliczni mieszkańcy, miasto [[Stargard]] twierdziło jednak, że powstał on w sposób nielegalny. Sprawa ciągnęła się latami, a jej pobocznym skutkiem było i to, że Stargard utracił sięgający średniowiecza przywilej, by decydować, komu wolno budować most na Inie, a komu nie. W każdym razie zdaje się, że niekończący się proces albo skutecznie zniechęcił Zahna do mielenia mąki w Dieckmühl, albo nawet doprowadził go do bankructwa. W każdym razie 18 kwietnia 1868 roku komisja sądowa z [[Maszewo]] wystawiła na sprzedaż należącą dotąd do niego cegielnię położoną w Stawnie. W 1873 na pewno nie był już właścicielem młyna, ale zdaje się, że pozostał w Dieckmühl jako mistrz młyński. W 1889 procesował się z Beyersdorfami, czyli jakąś rodziną od strony żony.
+		- Źródła: Berghaus, *Landbuch des Herzogthums Pommern*, t. 2.5.1, s. 111, 868; Amtsblatt der Regierung in Stettin 1889, s. [258](https://www.google.pl/books/edition/Amtsblatt_der_Regierung_in_Stettin/edhhIfcJlKUC?hl=pl&gbpv=1&dq=%22Dieckm%C3%BChle%22&pg=RA4-PA5&printsec=frontcover).
+		- Archiwalia: [1861](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8034648) (65/218/0/14.26/4458), [1861](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8034649) (65/218/0/14.26/4459), [1863](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8036519) (65/218/0/21.5/6347)
+		- Metrykalia: [1853](https://www-ancestryinstitution-com.wikipedialibrary.idm.oclc.org/discoveryui-content/view/599336:8798?gsfn=Ferdinand&gsln=Zahl&ml_rpos=6&queryId=ec1beb418d845af3f75c8f2a14f20636)
+	- **[[Friedrich Hermann Julius Schütz]]** (ur. 4 kwietnia 1838 w [[Lubczyna]])
+		- W 1869 notowany jako zarządca dóbr Lüttkenhagen ([[Tarnówko]]), do 1873 przeszedł na swoje i został „właścicielem młyna wodnego Dieckmühl”. Syn Augusta Friedricha Wilhelma Schuetza, mąż Ulrike Maria Albertine Struck (zob. drzewo na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GK2B-94P)).
+		- Metrykalia: [1869](https://www.familysearch.org/ark:/61903/1:1:6Z6W-WK9C?lang=en), [1873](https://www.familysearch.org/ark:/61903/1:1:6ZCW-LZ9D?lang=en)
+	- **[[Benno Carl Ernst Schütz]]** (ur. 4 maja 1870 w [[Mosty]], zm. 8 sierpnia 1945 w [[Tantow]])
+		- Syn [[Friedrich Hermann Julius Schütz]], po którym odziedziczył młyn w Bączniku. Żonaty z Anną Ulrike Luise Rodenwaldt (zob. drzewo na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GK2Y-YW7)). Był człowiekiem przedsiębiorczym, starał się rozwinąć działalność młyna. Działał w strukturach Norddeutsche Holz-Berufsgenossenschaft. W roku 1916 współzakładał nawet Kartoffel-Trockungsgenossenschaft Gollnow – czyli przedsiębiorstwo zajmujące się suszeniem ziemniaków na mąkę (jednym ze wspólników był [[Ludwig Friedrich Meyer]]); natomiast w 1922 Mühlen-Genoffenschaft des Kreises Naugard.
+		- W roku 1945 jako wiekowy już człowiek początkowo ewakuował się przed sowietami, ale wkrótce wraz z żoną i kilkoma pomocnikami wrócił do swojego młyna. Starał się naprawić zniszczenia wyrządzone przez przechodzące wojska, ale został najpierw pobity przez polskich osadników, a następnie deportowany za Odrę. Ponieważ miał już trudności z chodzeniem, przez część drogi musiał być wieziony na taczce. Trafił do Tantow, gdzie zmarł 8 sierpnia 1945 roku; jego żona wkrótce potem – 9 listopada 1945 roku.
+		- Źródła: Lübke, *Dorfchronik von Diedrichsdorf*, s. 71; „Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” 13.01.1899, s. [13](https://www.deutsche-digitale-bibliothek.de/newspaper/item/XVISRSZ7ZZTVLH6U27CPILJVEAUC4Y4P?query=%22Benno%20Sch%C3%BCtz%22&issuepage=13); 18.03.1916, s. [28](https://www.deutsche-digitale-bibliothek.de/newspaper/item/DU4LR36GU7JVUEA6NTRGHWUSHUE7E2KH?query=Sch%C3%B6nwerder+Gollnow&hit=1&issuepage=28); 02.03.1922, s. [33](https://www.deutsche-digitale-bibliothek.de/newspaper/item/TFCIEKKDWPT2E4ESPRVHHHA2APJPT7EN?tx_dlf%5Bhighlight_word%5D=%22Benno%20Sch%C3%BCtz%22&issuepage=33&query=%22Benno%20Sch%C3%BCtz%22)
+- #+BEGIN_CENTER
+  ----
+  <small>
+  Zebrał & opisał Jan Borowski. Licencja CC-BY-SA 4.0.
+  Masz więcej informacji? Znalazłeś błąd? Napisz: <a href="mailto:borssuk@tuta.com">borssuk@tuta.com</a>.
+  </small>
+  #+END_CENTER

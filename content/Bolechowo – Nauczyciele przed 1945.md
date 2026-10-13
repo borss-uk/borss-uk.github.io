@@ -1,0 +1,72 @@
+tags:: #Krajoznawstwo #Bolechowo
+
+- **Simon** (fl. 1805)
+	- Był nauczycielem w Bolechowie do 28 lutego 1805 roku, po tej dacie objął stanowisko kościelnego w garnizonie w [[Pasewalk]].
+	- Archiwalia: [1805](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/7915413) (65/36/0/3.250/3423)
+- **[[Johann Michael Steetz]] / Teetz** (fl. 1805–1809)
+	- Po ukończeniu Królewskiego Seminarium Nauczycielskiego przez 6 lat pozostawał nauczycielem w Forcie Prusy ([[Szczecin]]). Dowiedziawszy się o wolnej posadzie w Diedrichsdorf poprosił jednak o przeniesienie, argumentując, że jest zaprawiony do każdych warunków, a na terenie fortu nie może wykonywać wyuczonego rzemiosła stolarza.
+	- Zatrudnienie otrzymał – 16 kwietnia 1805 został wybrany na nauczyciela przez stargardzki magistrat, a 16 maja wybór zatwierdził Konsystorz Rejencji Pomorskiej w Szczecinie. W międzyczasie (17 kwietnia 1805) Steetz zdążył wystosować pismo, w którym prosił o opłacenie przeprowadzki. Przyznano mu także mieszkanie służbowe.
+	- Archiwalia: [1805](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/7915413) (65/36/0/3.250/3423)
+- **[[Martin Friedrich Wilhelm Drews]]** (ur. ok. 1794, zm. 24 stycznia 1860 w Bolechowie)
+	- Rozpoczął pracę jako nauczyciel w szkole w Bolechowie najpewniej w 1822 roku i pracował tak aż do śmierci w 1860. Dwukrotnie żonaty: z Marią Elisabeth Neumann i z Hanną Albertine Waldmann (zob. drzewo na [Familysearch](https://www.familysearch.org/tree/person/details/GGRS-2CT)).
+	- Archiwalia: [1822](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8037858) (65/218/0/26.10/7562)
+	- Metrykalia: [1825](https://www.familysearch.org/ark:/61903/1:1:6ZCW-YHZW?lang=en), [1838](https://www.familysearch.org/ark:/61903/1:1:6ZCW-JMZD?treeref=PN9N-56K&lang=en), [1840](https://www.familysearch.org/ark:/61903/1:1:6ZC4-MKSG), [1841](https://www.familysearch.org/ark:/61903/1:1:6ZCW-Y4BG), [1845](https://www.familysearch.org/ark:/61903/1:1:6ZCW-BGJR), [1847](https://www.familysearch.org/ark:/61903/1:1:6ZCW-Y2RQ), [1852](https://www.familysearch.org/ark:/61903/1:1:6ZCW-XLCM), [1860](https://www.familysearch.org/ark:/61903/1:1:6ZCW-9JSB?lang=en)
+- **[[Karl Friedrich August Schlewitt]]** (ur. ok. 1841, [[Węgorza]])
+	- Syn Johanna Friedricha Samuela Schlewitta i jego żony Dorothei Louisy Leu (zob. drzewko na [Familysearch](https://www.familysearch.org/tree/person/GP8H-GS6)). W 1864 roku ożenił się z Auguste Albertine Josefine Lübke z Bolechowa i przez rok albo dwa pozostawał miejscowym nauczycielem. Później notowany już jako nauczyciel i kościelny w [[Stawno]].
+	- Archiwalia: [1866](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8037932) (65/218/0/26.10/7636)
+	- Metrykalia: [1864](https://www.familysearch.org/ark:/61903/1:1:6Z6Q-873G), [1865](https://www.familysearch.org/ark:/61903/1:1:6ZC4-41Z9), [1865](https://www.familysearch.org/ark:/61903/1:1:6Z67-79T5), [1867](https://www.familysearch.org/ark:/61903/1:1:6Z67-L2T9)
+- **[[Johann Franz Friedrich Schlewitt]]** (ur. 5 marca 1847 w [[Węgorza]], zm. 1 lutego 1940, [[Goleniów]])
+	- Kolejny syn Johanna Friedricha Samuela Schlewitta i jego żony Dorothei Louisy Leu, a więc brat powyższego (zob. drzewko na [Familysearch](https://www.familysearch.org/tree/person/details/GP8W-17K)), nazywany często po prostu Franzem.
+	- Ukończył seminarium nauczycielskie w [[Kamień Pomorski]], gdzie zdał dwustopniowe egzaminy 3 października 1870 i 10 października 1872. Już wcześniej pracował jednak w zawodzie: na jesieni 1864 roku został powołany do prowadzenia szkoły w [[Łęsko]], a posadę w Diedrichsdorf otrzymał 20 września 1867. W 1874 roku w [[Strzelewo]] ożenił się z Wilhelmine Johanną Auguste Struck.
+	- Pensja wiejskiego nauczyciela w Diedrichsdorf była na tyle niska, że Schlewitt musiał dodatkowo uprawiać ziemię i trzymać w oborze dwie krowy. Nad Iną zbierał dla nich trawę, którą wiózł potem na taczce przez wąską leśną dróżkę, którą ochrzczono mianem „nauczycielskiej” (w dolnoniemieckim „de Kösterstieg”). Jak opisuje [[Siegfried Lübke]], Schlewitt został zapamiętany przez mieszkańców jako nauczyciel surowy i pilnujący dyscypliny.
+	- Po przejściu na emeryturę w 1908 roku przeniósł się do mieszkania córki w Goleniowie przy Wartislawstraße 3 (ob. ul. Wincentego Witosa, dom nadal stoi). Jako emeryt stał się człowiekiem wielce uhonorowanym – ciągu jednego roku przyznano mu 3 ordery:
+		- Order Królewski Korony IV Klasy (decyzja 21 maja 1908);
+		- Królewski Order Domu Hohenzollernów (decyzja 4 sierpnia 1908);
+		- Orzeł Posiadacza Królewskiego Orderu Domu Hohenzollernów (decyzja 21 października 1908).
+	- Zmarł 1 lutego 1940 roku o godz. 5:30.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+	- Archiwalia: [1860](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8037859) (65/218/0/26.10/7563), [1866](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8037860) (65/218/0/26.10/7564), [1886](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/9027338) (65/1151/0/1.19/1566), [1931](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/7994318) (65/148/0/4.18/1473)
+- **[[Walter Retzow]]** (ur. 20 kwietnia 1887)
+	- Następca Schlewitta pełnił urząd nauczyciela w latach 1908–1912*. W 1912 został przeniesiony do centralnego więzienia w [[Goleniów]] (chyba jako pracownik, ale kto wie, może jako osadzony – Lübke nie precyzuje). 19 kwietnia 1921 roku został wybrany do zarządu Gemeinnützigen Baugenossenschaft Gollnow, co można zapewne uznać za jakiś odpowiednik naszego TBSu. Był ponadto członkiem goleniowskiej loży masońskiej [[Barnim zur goldenen Aue]].
+		- * *Lübke twierdzi, że pozostawał nauczycielem w latach 1905–1913, ale z dokumentów znamy dokładne daty zarówno odejścia na emeryturę Schlewitta, jak i przyjścia do Bolechowa Blankenhagena, i na tej podstawie musimy ograniczyć zakres dat*
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*; „Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” 27.04.1921, s. [29](https://www.deutsche-digitale-bibliothek.de/newspaper/item/5EHJEAV6C4QV6F4Y6LX6JDEC4KN7GNEL?tx_dlf[highlight_word]=retzow&issuepage=29&query=%22walter+retzow%22&hit=1)
+	- Archiwalia: [1939](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/9150540) (65/1467/0/12/18954)
+- **Henschke**
+	- Następcą Retzowa, przez krótki okres w roku 1912, miał być młody nauczyciel o nazwisku Henschke. Jest to o tyle ciekawy zbieg okoliczności, że również dziś w Bolechowie mieszka rodzina o tym nazwisku (tyle że pisana przez „sz”).
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+- **[[Georg Blankenhagen]]** (ur. 12 sierpnia 1891, [[Szczecin]])
+	- A właściwie Georg Emil Wilhelm Blankenhagen, syn pracownika biurowego Franza Alberta Emila Blankenhagena i Emmy z domu Simon (zob. drzewko na [FamilySearch](https://www.familysearch.org/en/tree/person/details/PNHP-F72)). Pierwszy egzamin nauczycielski zdał 13 marca 1912 roku w [[Drawsko Pomorskie]] i od 1 października tegoż roku pracował w Bolechowie. Początkowo nie był ponoć zbyt zadowolony z wiejskiej placówki, ale stopniowo zżył się z lokalną społecznością. Po wybuchu I wojny światowej powołany pod broń – ale do Bolechowa jeszcze wróci. 18 grudnia 1915 roku w Szczecinie pojął za żonę Marthę Marię Magdalenę Hamann.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+	- Archiwalia: [Karta osobowa](https://archivdatenbank.bbf.dipf.de/actaproweb/archive.xhtml?id=Vz++++++e9d4df73-d354-4479-b000-e0a1278164a5&parent_id=#Vz______e9d4df73-d354-4479-b000-e0a1278164a5) (BBF / GUT LEHRER / 134392)
+- **[[Gustav Podratz]]** (ur. 14 lipca 1875)
+	- W 1914 roku Blankenhagena zastępował nauczyciel Gustav August Friedrich Wilhelm Gottlieb Podratz (ufff…) z Goleniowa. Pierwszy i drugi egzamin nauczycielski zdał w latach 1895 i 1899 w [[Pyrzyce]]. Później był nauczycielem w [[Stawno]], a od 1910 roku nauczał w szkole powszechnej dla chłopców w [[Goleniów]]. W 1935 roku przeszedł w stan spoczynku. Lübke odnotował go jako człowieka, który nie stronił od kar fizycznych.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+	- Archiwalia: [1899](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/8037934) (65/218/0/26.10/7638); [Karta osobowa](https://archivdatenbank.bbf.dipf.de/actaproweb/archive.xhtml?id=Vz++++++cc4defa9-761e-4587-beac-ba78455e3c37&parent_id=#Vz______cc4defa9-761e-4587-beac-ba78455e3c37) (BBF / GUT LEHRER / 132341).
+- **Młoda nauczycielka**
+	- W 1915 roku w ramach zastępstwa w Bolechowie miała pracować nieznana z imienia młoda nauczycielka.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+- **Lee**
+	- Z kolei w latach 1915–1916 w Bolechowie i [[Stawno]] (które również nie miało nauczyciela) uczył pan Lee. Zajęcia były prowadzone naprzemiennie: przez tydzień w Bolechowie, przez tydzień w Stawnie. W 1916 Lee również został powołany na front.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+- **[[Wilhelm Kamrath]]** (ur. 13 września 1894)
+	- W 1916 roku w Bolechowie przez krótki czas miał nauczać Wilhelm August Eduard Kamrath. W tym samym roku kronika strat wojennych odnotowała, że na froncie ciężko raniony został starszy szeregowy Wilhelm Kamrath z [[Glewice]] – może więc nauczyciel Kamrath był inwalidą wojennym, kto wie.
+	- Tak czy inaczej Kamrath nie był jeszcze wówczas pełnoprawnym nauczycielem – pierwszy egzamin nauczycielski zdał w lutym 1917 roku w [[Pyrzyce]], a drugi w październiku 1918 roku w [[Stawno]]. Od 1 lipca 1917 zatrudniony w Stawnie, pozostał tam na długie lata, bo aż do kwietnia 1935 roku, kiedy to przeniesiono go do [[Szczecin]]. Później znów pracował w Stawnie, później w [[Goleniów]] (od kwietnia 1938), by ostatecznie wrócić jednak do Stawna (od sierpnia 1938).
+	- Dla pełnego obrazu dodajmy, że 7 kwietnia 1922 roku został wybrany członkiem zarządu Wiejskiej Kasy Pożyczkowo-Oszczędnościowej w Stawnie (*Ländliche Spar- und Darlehnskasse*).
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*; „Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” 04.09.1916, s. [36](https://www.deutsche-digitale-bibliothek.de/newspaper/item/CRWM3366ZJJKJUMGCGOLQHBAXWLC4J7L?tx_dlf[highlight_word]=%22Wilhelm%2BKamrath%22&issuepage=36&query=%22Wilhelm+Kamrath%22&hit=7); „Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” 28.04.1922, s. [31](https://www.deutsche-digitale-bibliothek.de/newspaper/item/CVW5MFR4EQ5DCRKMXQFGXB4FXSB2NVEE?query=%22Wilhelm+Kamrath%22&hit=2&issuepage=33)
+	- Archiwalia: [Karta osobowa](https://archivdatenbank.bbf.dipf.de/actaproweb/archive.xhtml?id=Vz++++++23d6070c-bf65-46a8-9bb8-ff89c235faad&parent_id=#Vz______23d6070c-bf65-46a8-9bb8-ff89c235faad) (BBF / GUT LEHRER / 135195)
+- **[[Emil Rowe]]**
+	- Po Kamracie w 1916 roku na posadę nauczyciela w Bolechowie przyszedł Emil Rowe, ale zachorowawszy na zapalenie płuc, długo miejsca nie zagrzał.
+- **Kanzenbach**
+	- Po Rowem posadę w Bolechowie objął inwalida wojenny pan Kanzenbach, który – jak się zdaje – pełnił tę funkcję do powrotu Blankenhagena w 1918. Chodził o lasce, której często używał do bicia dzieci. Był jednak ponoć rzetelnym nauczycielem.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+- **[[Georg Blankenhagen]]** (ur. 12 sierpnia 1891, [[Szczecin]])
+	- Po powrocie z frontu Blankenhagen coraz silniej angażował na rzecz lokalnej społeczności. Urozmaicał zajęcia szkolne i wychodził poza obowiązkowy program. Prowadził zajęcia z modelarstwa, a latem organizował lekcje pływania nad Iną. W 1927 wraz z kilkoma mieszkańcami założył we wsi klub gimnastyczny (*Turnverein*). Jego działalność rozwijała się stopniowo: najpierw zakupiono drążek, a Blankenhagen prowadził raz w tygodniu dwugodzinny trening. Później powstała drużyna piłki ręcznej, która rywalizowała w rozgrywkach powiatowych.
+	- W 1937 wstąpił do NSDAP (zob.). W 1940 roku mianowany miejscowym pełnomocnikiem ds. ochrony przeciwlotniczej (*Luftschutzbeauftragter*) i jako taki kontrolował, czy mieszkańcy są odpowiednio przygotowani na zagrożenie z powietrza. Z racji swego zaangażowania po wojnie Blankenhagen przez dwa lata nie otrzymywał zgody na powrót do zawodu nauczyciela i musiał pracować przy wydobyciu torfu.
+	- Źródła: S. Lübke: *Dorfchronik von Diedrichsdorf*
+- #+BEGIN_CENTER
+  ----
+  <small>
+  Zebrał & opisał Jan Borowski. Licencja CC-BY-SA 4.0.
+  Masz więcej informacji? Znalazłeś błąd? Napisz: <a href="mailto:borssuk@tuta.com">borssuk@tuta.com</a>.
+  </small>
+  #+END_CENTER
