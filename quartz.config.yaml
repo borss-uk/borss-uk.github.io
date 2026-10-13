@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Borssuk/Nora
+  pageTitleSuffix: " –  strona domowa Jana Borowskiego"
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: borss-uk.github.io
+  analytics: null
+  locale: pl-PL
+  baseUrl: nora.borss.uk
   ignorePatterns:
     - private
     - templates
@@ -79,6 +78,7 @@ plugins:
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
+    maxDepth: 6
     order: 50
     layout:
       position: right
@@ -146,7 +146,7 @@ plugins:
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"

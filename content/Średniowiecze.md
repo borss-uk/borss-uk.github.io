@@ -1,4 +1,2 @@
-- Poniżej możesz znaleźć wszystkie strony przyporządkowane do tej kategorii wraz z datą ostatniej aktualizacji.
-- {{query (page-tags [[Średniowiecze]])}}
-  query-table:: true
-  query-properties:: [:page :created-at :updated-at]
+Od 2024 roku studiuję historię na Uniwersytecie Szczecińskim i piszę pod kierunkiem dra Pawła Migdalskiego pracę magisterską nt. średniowiecznych rękopisów z żywotami św. Ottona. Przy okazji grzebię w różnych pomorskich kodeksach i znajduję ciekawe rzeczy. Jak na razie publicznie udostępniłem tylko moje niedoszłe wystąpienie konferencyjne z 2025 roku o rękopisach kartuzów z Grabowa pod Szczecinem:
+* *Nieznane pisma kartuzów z Grabowa. Przyczynek do badań nad kulturą intelektualną średniowiecznego Pomorza* (2025) – [nagranie](https://youtu.be/TbCKqtOeMf4?list=PLajhKZ5XMVv173y1ioPoj3KLFvAlthiX5), [prezentacja](https://www.academia.edu/128214099/Nieznane_pisma_kartuz%C3%B3w_z_Grabowa_Przyczynek_do_bada%C5%84_nad_kultur%C4%85_intelektualn%C4%85_%C5%9Bredniowiecznego_Pomorza).

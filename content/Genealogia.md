@@ -1,6 +1,10 @@
-- Poniżej możesz znaleźć wszystkie strony przyporządkowane do tej kategorii wraz z datą ostatniej aktualizacji.
-- {{query (page-tags [[Genealogia]])}}
-  query-table:: true
-  query-properties:: [:page :created-at :updated-at]
-  query-sort-by:: page
-  query-sort-desc:: false
+Od wielu lat zajmuję się zgłębianiem historii swojej rodziny, przeprowadzałem także poszukiwania genealogiczne dla innych osób. Zajmuję się też opracowywaniem i tłumaczeniem materiałów archiwalnych (z niemieckiego, łaciny, a coraz częściej również z rosyjskiego). Tak na przykład w 3 osoby opisywaliśmy kiedyś 40 pudeł poniemieckich archiwaliów leżących sobie w Bibliotece Publicznej w Gryfinie. Jeśli mógłbym w związku z tym w czymś pomóc, zachęcam do kontaktu (najlepiej mailowo: [borssuk@tuta.com](mailto:borssuk@tuta.com)).
+
+Swoje drzewo genealogiczne udostępniam na platformie FamilySearch, poniżej natomiast zamieszczam kilka opracowań, które udało mi się dotąd wrzucić do internetu. Mam tego dużo więcej, ale nie wszystko chce mi się doprowadzać do postaci, która nadawałaby się do publikacji.
+# Opracowania genealogiczne
+- Genealogia [[Krzyżanowscy herbu Mora]] wraz z krótkimi biogramami najważniejszych przedstawicieli: [[Ignacy Franciszek Krzyżanowski]], [[Józef Wawrzyniec Krzyżanowski]], [[Franciszek Krzyżanowski]], [[Adam Krzyżanowski]]. Drzewko dostępne także na [FamilySearch](https://www.familysearch.org/en/tree/person/details/P6JQ-79S).
+- Opracowanie niemal kompletnej genealogii Walickich herbu Walbach (drzewko na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GNH7-35G)) oraz biogramu  [Tadeusza Walickiego](https://pl.wikipedia.org/wiki/Tadeusz_Walicki), posła do I Dumy rosyjskiej z guberni piotrkowskiej.
+- Opracowanie życiorysu i rozwikłanie zagadki śmierci ks. Stanisława Ławrynowicza. Na razie jedynym owocem tych poszukiwań jest [prezentacja konferencyjna](https://www.academia.edu/128462758/Domniemany_m%C4%99czennik_Ks_Stanis%C5%82aw_%C5%81awrynowicz_1872_1924_i_jego_praca_duszpasterska_w_parafiach_archidiecezji_mohylewskiej), ale będzie coś więcej.
+- Spis [schematyzmów diecezjalnych](https://pl.wikipedia.org/wiki/Schematyzm_diecezjalny) dostępnych w polskich bibliotekach cyfrowych (uporządkowanie i uzupełnienie).
+- Indeksy z ksiąg metrykalnych z parafii [Kobryń](https://geneteka.genealodzy.pl/index.php?op=gt&lang=&w=22br&rid=7261) i [Dywin](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=22br&rid=7107).
+

@@ -1,4 +1,12 @@
-- Poniżej możesz znaleźć wszystkie strony przyporządkowane do tej kategorii wraz z datą ostatniej aktualizacji.
-- {{query (page-tags [[Duchowość i filozofia]])}}
-  query-table:: true
-  query-properties:: [:page :created-at :updated-at]
+W 2024 roku ukończyłem **studia licencjackie z filozofii** na Uniwersytecie Jagiellońskim. Pod kierunkiem dr [Jadwigi Guerrero van der Meijden](https://pl.wikipedia.org/wiki/Jadwiga_Guerrero_van_der_Meijden) napisałem pracę dyplomową pt. *Koncepcja posłuszeństwa w filozofii Mistrza Eckharta oraz jej źródła w piśmiennictwie późnośredniowiecznym*. Oprócz tego zajmowałem się (i zajmuję nadal) całą gamą tematów na pograniczu religii i filozofii, szczególnie mistyką chrześcijańską.
+
+W latach 2021–2024 kierowałem prężnie działającą **Sekcją Myśli Chrześcijańskiej KNSF UJ** (tutaj [sprawozdanie](https://www.academia.edu/144228406/Sprawozdanie_z_dzia%C5%82alno%C5%9Bci_Sekcji_My%C5%9Bli_Chrze%C5%9Bcija%C5%84skiej_KNSF_UJ_za_lata_2021_2024)). Ponadto w roku akademickim 2022/2023 byłem prezesem całego Koła Filozoficznego, które udało mi się nieco ożywić, m.in. poprzez organizację ogólnopolskiej studenckiej konferencji naukowej.
+
+# Wybrane wystąpienia publiczne
+* *Jan Eckhart i poznawcze przezwyciężenie grzechu pierworodnego* (2023) – [prezentacja](https://www.academia.edu/108467970/Jan_Eckhart_i_poznawcze_przezwyci%C4%99%C5%BCenie_grzechu_pierworodnego);
+* *„Ustrój, który tworzy Całego Człowieka”. Idea odnowy społeczeństwa w pismach ks. Stanisława Sapińskiego* (2023) – [prezentacja](https://www.academia.edu/109653958/_Ustr%C3%B3j_kt%C3%B3ry_tworzy_Ca%C5%82ego_Cz%C5%82owieka_Idea_odnowy_spo%C5%82ecze%C5%84stwa_w_pismach_ks_Stanis%C5%82awa_Sapi%C5%84skiego);
+* *Byung-Chul Han. Społeczeństwo paliatywne* (2023) – [nagranie](https://youtu.be/bCeDVWQcHuA?list=PLajhKZ5XMVv0USgsn0fJ2BsYKy1Lo8hpx);
+* *Mechtylda z Magdeburga. Mistyka, seks i feministki* (2024) – [nagranie](https://youtu.be/8N_Tilp_ovc?list=PLajhKZ5XMVv0USgsn0fJ2BsYKy1Lo8hpx);
+* *Zdeterminowanie i wolność. O kilku paralelach między myślą Immanuela Kanta i Marcina Lutra* (2024) – [nagranie](https://youtu.be/JgEnkIvlbJ8?list=PLajhKZ5XMVv173y1ioPoj3KLFvAlthiX5), [prezentacja](https://www.academia.edu/118142672/Zdeterminowanie_i_wolno%C5%9B%C4%87_O_kilku_paralelach_mi%C4%99dzy_my%C5%9Bl%C4%85_Immanuela_Kanta_i_Marcina_Lutra);
+* *Philipp Jacob Spener. Kazanie o ponownych narodzinach* (2026) – [nagranie](https://youtu.be/QHbko1Qhvc4?list=PLajhKZ5XMVv0USgsn0fJ2BsYKy1Lo8hpx).
+
