@@ -1,0 +1,24 @@
+---
+tags:
+  - stawno
+  - IIwojnaświatowa
+  - biogram
+  - krajoznawstwo
+  - iiirzesza
+---
+Przedwojenny mieszkaniec Stawna (wówczas Stevenhagen), autor autobiograficznej książeczki _**Ein Leben mit Zufällen**_ (2024). Od 1968 roku mieszka w Prenzlau. Pracował jako policjant, strażnik graniczny, a także jako dziennikarz. Poniższa notatka obejmuje natomiast ten okres jego życia, który najbardziej interesuje mnie z perspektywy krajoznawczej – a więc pierwszych 15 lat spędzonych po wschodniej stronie Odry.
+
+---
+Benno urodził się 1 października 1930 roku w Priemhausen (dziś Przemocze) w rodzinie o polskich korzeniach, która trudniła się rolnictwem. Jego ojciec, Friedrich, pochodził z Prus Wschodnich, z kolei matka, Auguste z Eberhartów, miała nawet przez pewien czas polskie obywatelstwo. W 1932 roku rodzina przeniosła się do Stawna, gdzie na świat przyszli dwaj młodsi bracia Benna. Za 15 marek miesięcznie Butschalowscy wynajmowali skromne mieszkanie w domu mistrza murarskiego Johannesa Hartwiga. W oborze trzymali niewielki inwentarz: świnię, dwie kozy, gęsi, kury i króliki. Troska o wychowanie dzieci spoczęła na barkach matki, ponieważ ojciec zatrudnił się przy budowie autostrady (zapewne [Berlinki](https://pl.wikipedia.org/wiki/Berlinka_\(autostrada\))) i rzadko kiedy bywał w domu.
+
+W 1937 roku Benno wraz z 6 innymi dziećmi rozpoczął naukę w szkole. Powitał ich nauczyciel Wilhelm Kamrath. Butschalowski wspomina, że wszystkie pozostałe dzieci otrzymały od swoich rodziców torby pełne słodyczy, on jako jedyny nie – ponieważ jego matka pochodziła z innych terenów i nie znała tego zwyczaju. Po wybuchu wojny w 1939 roku szkoła w Stawnie została zamknięta, a dzieci chodziły lub dojeżdżały rowerem do pobliskich miejscowości: Bolechowa, Łęska lub Tarnówka. Dwa razy w tygodniu, zazwyczaj w środy i czwartki, zajęcia były odwoływane. Benno wspomina zaangażowanie bolechowskiego nauczyciela Georga Blankenhagena, który organizował zajęcia z modelarstwa (modele samolotów były później puszczane na łąkach koło Iny), zajęciach sportowych oraz naukę pływania (zob. [[Bolechowo – Nauczyciele przed 1945]]).
+
+Po osiągnięciu 10 roku życia, w 1940 roku, Butschalowski był zobowiązany do służby w [Jungvolku](https://pl.wikipedia.org/wiki/Deutsches_Jungvolk), czyli odpowiedniku Hitlerjugend dla najmłodszych obywateli Rzeszy. Otrzymał tam rangę Jungenschaftsführera oraz Hauptjungzugführera. Służba w organizacji oznaczała obowiązkowe zbiórki dwa razy w tygodniu, zwykle w środy i w soboty. Były też jednak plusy, takie jak na przykład udział w zawodach sportowych.
+
+Również około 10 roku życia Benno zatrudnił się jako wioskowy gazeciarz. Za 20 marek miesięcznie roznosił do 33 gospodarstw w całym Stawnie „Pommersche Zeitung” – niestety tylko do czasu, aż u Ückermannów pogryzł go pies. Z kolei przed Bożym Narodzeniem 1943 roku razem ze starszym kolegą Horstem Marksem i tokarzem Weinreichem z Bolechowa (a takich było dwóch – Max i Albert – więc nie wiem, o którego chodzi) wpadli na pomysł wykonania zabawek dziecięcych – o które w warunkach wojennych było niezwykle trudno. Sprzedawane cieszyły się potem dużą popularnością wśród okolicznych mieszkańców.
+
+Na początku 1945 roku mieszkańcy zaczęli odczuwać zbliżający się front – drogą prowadzącą ze Stargardu do Goleniowa ciągnęły wozy konne z uchodźcami. Na przełomie lutego i marca Benno oraz kilku innych chłopców otrzymali od sołtysa Gantzkowa specjalne zadanie: leśną drogą prowadzącą do Groß Christinenberg (czyli dzisiejszych Klinisk Wielkich) mieli pędzić napływające ze Wschodu stada bydła, które docelowo miały trafić na ubój do Szczecina. 3 marca chłopcy zostali zaatakowani przez radzieckie myśliwce – schronili się w przydrożnym rowie i szczęśliwie nikomu nic się nie stało.
+
+Wieś została ewakuowana 5 marca – wobec zbliżającego się frontu decyzja została podjęta nagle, Mieszkańcy spakowali tylko najpotrzebniejsze rzeczy i udali się z nimi na miejsce zbiórki przed szkołą. Tam stały już zaparkowane wojskowe furgonetki, które przewiozły ich najpierw do lasu – by uniknąć ataku z powietrza – a później, pod osłoną nocy, aż na dworzec w Szczecinie. Pociągiem udali się do Stralsundu, gdzie przez kilka tygodni pozostawali jako uchodźcy. Benno został skierowany do kopania rowów przeciwpancernych. Następnie zostali przeniesieni do wsi Lendershagen (ob. gmina Velgast), gdzie doczekali końca wojny.
+
+W czerwcu 1946 roku usłyszeli, że mogą wracać do swoich domów. Matka wraz z trzema synami dotarła więc pociągiem do Stargardu, a stamtąd piechotą do Stawna. Jednak we własnym domu dane im było pozostać tylko przez kilka dni – uzbrojeni polscy żołnierze obwieścili im, że ziemie te stały się terytorium Polski i nakazali opuszczenie miejscowości. Rodzina udała się więc pieszo do Lubczyny, a stamtąd łodzią do Polic. Ich miejscem schronienia po drugiej stronie granicy stało się Wallmow w Uckermark.

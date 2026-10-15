@@ -1,6 +1,18 @@
+---
+tags:
+  - krzyżanowscy
+  - żmudź
+  - litwa
+  - szlachta
+  - biogram
+  - genealogia
+---
 ur. 18 czerwca 1753, zm. 29 lipca 1838. Skarbnik żmudzki, ojciec ks. [[Józef Wawrzyniec Krzyżanowski]] i dziadek biskupa [Aleksander Kazimierz Bereśniewicz](https://pl.wikipedia.org/wiki/Aleksander_Kazimierz_Bere%C5%9Bniewicz). Zmarł na plebani w Jaswojniach, pochował go „JWX Józef Krzyżanowski Prałat Scholastyk Katedry Żmudzkiej Pleban Jaswoyński przy Assystencyi Ośmiu Kapłanów”. Na cmentarzu w Jaswojniach zachował się jego nagrobek.
-	- Źródła: Jaswojnie 1833 Egzamin przedślubny Stanisława Antoniegp Krzyżanowskiego; Jaswojnie 1838 Z86 Krzyżanowski Adam; Skłodowski, *Cmentarze na Żmudzi*, s. 305.
-	- Zobacz drzewo genealogiczne na [FamilySearch](https://www.familysearch.org/en/tree/person/details/P6JQ-7JN) oraz stronę [[Krzyżanowscy herbu Mora]].
+
+Zobacz drzewo genealogiczne na [FamilySearch](https://www.familysearch.org/en/tree/person/details/P6JQ-7JN) oraz stronę [[Krzyżanowscy herbu Mora]].
+
+Źródła: Jaswojnie 1833 Egzamin przedślubny Stanisława Antoniegp Krzyżanowskiego; Jaswojnie 1838 Z86 Krzyżanowski Adam; Skłodowski, *Cmentarze na Żmudzi*, s. 305.
+
 - ----
 <p style="text-align: center;">
 <small>

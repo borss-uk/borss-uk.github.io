@@ -2,7 +2,8 @@ W 2023 roku wraz z mieszkańcami Bolechowa założyłem archiwum społeczne – 
 # Opracowania historyczne
 * [Bącznik](https://pl.wikipedia.org/wiki/B%C4%85cznik)
 * [[Bącznik – Leśniczowie]]
-* [[Bącznik – Młynarze]]
+* [[Bącznik – Młynarze przed 1945]]
+* [[Benno Butschalowski]]
 * [Bolechowo](https://pl.wikipedia.org/wiki/Bolechowo_(wojew%C3%B3dztwo_zachodniopomorskie))
 * [[Bolechowo – Członkowie NSDAP]]
 * [[Bolechowo – Nauczyciele przed 1945]]

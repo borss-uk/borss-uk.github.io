@@ -1,3 +1,11 @@
+---
+tags:
+  - krzyżanowscy
+  - genealogia
+  - szlachta
+  - żmudź
+  - litwa
+---
 # Co wiadomo o Krzyżanowskich?
 O Krzyżanowskich herbu Mora (rus. Кржижановский, lit. Kryžanauskas) niewiele napisano dotychczas w źródłach drukowanych – właściwie tylko tyle, że byli. Seweryn Uruski w swojej *[Rodzinie](https://www.wbc.poznan.pl/dlibra/publication/67204/edition/82840)* (1911, tom 8, s. 143), a więc herbarzu szlachty polskiej, odnotowuje:
 
@@ -126,6 +134,7 @@ Odnotujmy, że przy pierwszej elekcji Stanisława Leszczyńskiego w roku 1704 po
 2. **[[Ignacy Franciszek Krzyżanowski]]** (ur. 1724, zm. 1769). „Kanclerz katedralny przemyski 1745 r., archidyakon katedralny przemyski 1756 r., officyał 1761 r., biskup saldeceński 1762, dziekan kollegiaty w Opatowie i proboszcz Kańczudze”.
 3. **Rozalia Krzyżanowska** (zm. 1763). Zamężna z Aleksandrem Balem h. Gozdawa (1712-1758 podstoli latyczowski, podkomorzy sanocki (1735), właściciel Terpiczowa), następnie z Janem Nepomucenem Romerem h. Jelita.
 4. **Jan Krzyżanowski** (zm. przed 1781?) – znany z cytowanego powyżej wywodu.
+
 Zmarł, jak już wspomniałem, 1 lutego 1756 roku we wsi Piórków nieopodal Opatowa. „[Kuryer Polski](https://bcul.lib.uni.lodz.pl/dlibra/publication/59758/edition/52376/content)” (nr 134, s. 3) informował, że śmierć poprzedziła długa choroba:
 
 > [!CITE] Cytat

@@ -2,7 +2,7 @@
 title: Witaj
 ---
 # Co tutaj znajdziesz?
-Dopiero zaczynam tworzyć tę stronę i jak na razie nie ma tu zbyt wiele treści. Możesz jednak rozejrzeć się tu i ówdzie, klikając w podstawowe kategorie:
+Dopiero zaczynam tworzyć tę stronę i jak na razie nie ma tu zbyt wiele treści. Możesz jednak rozejrzeć się tu i ówdzie, przeglądając [tagi](tags) lub klikając w podstawowe kategorie:
 
 **[[Genealogia]]** · **[[Krajoznawstwo]]** · **[[Średniowiecze]]** · **[[Duchowość i filozofia]]** · **[[Miscellanea]]**
 

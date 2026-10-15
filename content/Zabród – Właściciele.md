@@ -1,3 +1,8 @@
+---
+tags:
+  - zabród
+  - krajoznawstwo
+---
 Poniżej znajduje się lista dziedzicznych dzierżawców oraz właścicieli dawnego folwarku Holländerei / Schönwerder, czyli dzisiejszego Zabrodu koło Goleniowa. O samej miejscowości można poczytać sobie na [Wikipedii](https://pl.wikipedia.org/wiki/Zabr%C3%B3d).
 
 ----
@@ -17,11 +22,10 @@ Metrykalia: [1826](https://www.familysearch.org/ark:/61903/1:1:6FTR-4ZRG), [1860
 # Johann Friedrich Ferdinand Voigt
 ur. 29 lutego 1816, Goleniów, zm. 22 stycznia 1890 tamże
 
-Po śmierci ojca w 1860 roku odziedziczył rzeczone dobra, wkrótce jednak awansował i z dziedzicznego dzierżawcy stał się właścicielem folwarku Holländerei (tak został określony w 1864 roku). Pojawia się na liście członków Międzynarodowego Towarzystwa Walki z Naukowym Torturowaniem Zwierząt z 1884 roku – podobnie zresztą, jak miejscowy leśniczy Colell (zob. [[Zabród – Leśniczowie]]). (Drzewko na [FamilySearch](https://www.familysearch.org/tree/person/details/MZZJ-BDR)).
+Po śmierci ojca w 1860 roku odziedziczył rzeczone dobra, wkrótce jednak awansował i z dziedzicznego dzierżawcy stał się właścicielem folwarku Holländerei (tak został określony w 1864 roku). Pojawia się na liście członków Międzynarodowego Towarzystwa Walki z Naukowym Torturowaniem Zwierząt z 1884 roku – podobnie zresztą, jak miejscowy leśniczy Colell (zob. [[Zabród – Leśniczowie#NN Colell]]). (Drzewko na [FamilySearch](https://www.familysearch.org/tree/person/details/MZZJ-BDR)).
 
 Metrykalia: [1860](https://www.familysearch.org/ark:/61903/3:1:9392-8Y9D-Z7?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6FTP-DVL3&action=view), [1864](https://www.familysearch.org/ark:/61903/3:1:9392-8Y9F-G3?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6FTP-G7PT&action=view)
 # Richard Paape
-
 fl. 1888–1911
 
 Kto stał się właścicielem Zabrodu po śmierci J.F.F. Voigta, tego nie wiem, brakuje mi źródeł. W każdym razie 2 maja 1909 roku dobra nabył Richard Paape. Jak podawał „Gartzer Zeitung”:
@@ -42,8 +46,12 @@ Mimo tych sprzyjających okoliczności przyrody prasa donosiła o pewnych niedog
 
 Źródła: *Adressbuch aller Länder der Erde, der Kaufleute, Fabrikanten, Gewerbetreibenden, Gutsbesitzer*, 1888, s. [80a](https://www.google.pl/books/edition/Adressbuch_aller_L%C3%A4nder_der_Erde_der_Ka/7nmTrq1Nn_YC?hl=pl&gbpv=1&dq=richard+paape+maskow&pg=RA1-PA110&printsec=frontcover); „Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” 20.04.1897, s. [35](https://www.deutsche-digitale-bibliothek.de/newspaper/item/OK7AGOD4FRDAZOI45N7PWPAQA5SVARFB?tx_dlf%5Bhighlight_word%5D=Paape&issuepage=35&query=Gutsp%C3%A4chter%20Richard%20Paape%20zu%20Maskow,); „Gartzer Zeitung” 04.05.1909, s. [3](https://www.digitale-bibliothek-mv.de/viewer/image/PPN1856352447_1909/229/LOG_0069/); „Deutscher Reichsanzeiger und Preußischer Staatsanzeiger” 25.08.1909, s. [17](https://www.deutsche-digitale-bibliothek.de/newspaper/item/F7N4UQQQGUGH4S3HA6VRNOILLYOOK6BQ?query=%22RICHARD%20PAAPE%22&issuepage=17); „Beilage zur Schlawer Zeitung” 16.10.1911, s. [2](https://www.digitale-bibliothek-mv.de/viewer/image/PPN1029364672_1911/1084/LOG_0300/)
 # Ludwig Friedrich Meyer
+ur. 31 lipca 1863, Wittstock
+
 Zanim wszedł w posiadanie Zabrodu zajmował się kolonizowaniem Afryki i dorobił się nawet [grzyba](https://pl.wikipedia.org/wiki/Mycena_meyeri-ludovici) nazwanego własnym imieniem. Napisałem o nim obszernie na [Wikipedii](https://pl.wikipedia.org/wiki/Zabr%C3%B3d#Ludzie_zwi%C4%85zani_z_Zabrodem), więc tam odsyłam. (Drzewko na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GTZX-MFB)).
 # Hans Ludwig Meyer
+ur. 9 listopada 1904, Tanga (Tanzania), zm. 13 października 1985, Zeven
+
 Ostatni przedwojenny właściciel folwarku Schönwerder. Syn powyższego, doktor nauk rolniczych. Również bardzo ciekawy człowiek, o którym również pisałem na [Wikipedii](https://pl.wikipedia.org/wiki/Zabr%C3%B3d#Ludzie_zwi%C4%85zani_z_Zabrodem). (Drzewko na [FamilySearch](https://www.familysearch.org/en/tree/person/details/GTZ6-5LB)).
 
 ----
