@@ -3,9 +3,17 @@ tags:
   - bącznik
   - leśnictwo
   - krajoznawstwo
+  - bollbruch
 ---
-Lista leśniczych z Bącznika, a więc dawnego niemieckiego Dieckmühl.
-# Leśniczowie do 1945 roku
+# Przed Bącznikiem: strażnica leśna Bollbruch
+
+Leśniczówka w Bączniku, czy raczej w dawnym niemieckim **Dieckmühl** (zapisywane różnie: *Dieckmühle*, *Dickmühl*, *Dickmühle*) powstała gdzieś w latach 50. XIX wieku. Wcześniej strażnica leśna obejmująca okoliczne tereny mieściła się na **Bollbruch** (zapisywanym także jako *Bullen Bruch*), czyli pomiędzy dzisiejszym Stawnem a Tarnowcem. Dokładną lokalizację oznaczono na [mapie](https://digital.staatsbibliothek-berlin.de/werkansicht?lang=de&PPN=PPN1978777647&PHYSID=PHYS_0001) z 1834 roku. Cząstka *Bruch* oznacza po niemiecku teren bagnisty, porośnięty drzewami i krzewami, co się zgadza, bo do dziś są to tereny podmokłe.
+
+Leśniczówka w Bollbruch zdaje się mieć całkiem długą historię, jeśli spojrzeć na daty dotyczących jej jednostek archiwalnych. Jednostka *Die Forst-Dienst-Stelle zu Bollbruch und deren Inhaber* ([65/218/0/16/5438](https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/8035683)) obejmuje lata 1764–1847. Końcowa data zbiega się wcale dokładnie ze śmiercią miejscowego leśniczego [Friedricha Wilhelma Petersdorffa](https://www.familysearch.org/en/tree/person/details/PN9R-TDF). Zmarł on na suchoty w roku 1846 i być może pochodził z [tych Petersdorffów](https://pl.wikipedia.org/wiki/Petersdorff_(r%C3%B3d_szlachecki_z_Pomorza)), do których należały pobliskie dobra w Tarnówku (trzeba by to sprawdzić).
+
+Jednostka *Die Forstaufseher-Stelle zu Bollbruch und deren Besetzung Vol. II* ([65/218/0/16/5439](https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/8035684)) obejmuje lata kolejne: 1846–1853. Można więc przypuszczać, że to wtedy ważyło się „być albo nie być” miejscowej strażnicy leśnej. Szukano następcy Petersdorffa, ale ostatecznie zdecydowano się na stworzenie leśniczówki w Bączniku. Jeszcze spis z roku [1858](https://www.google.pl/books/edition/Topographisch_statistisches_Handbuch_des/kTA_AAAAcAAJ?hl=pl&gbpv=1&dq=bollbruch+gollnow&pg=PA76&printsec=frontcover) poświadcza wprawdzie, że na Bollbruch znajdował się 1 dom zamieszkały przez 5 osób. ale prawdopodobnie byli to pracownicy zajmujący się wydobyciem torfu.
+
+# Leśniczowie w Bączniku do 1945 roku
 ## Friedrich Wilhelm Stuhr
 ur. 11 marca 1826, Trzebórz
 
@@ -30,9 +38,11 @@ Syn Karla Türka, gdy w 1911 roku w Szczecinie żenił się z Anną Marią Elisa
 Źródła: *Adreßbuch für Stargard in Pommern*, 1914, s. [229](https://digital.martin-opitz-bibliothek.de/detailseite/id/1711/page/241?tx_dlf%5Bhighlight_word%5D=Dieckm%C3%BChl&cHash=5c26e9cfa3acfb07ddefd116aa4998c5#), „Deutsche Forst-Zeitung”, 1919, s. [873](https://www.google.pl/books/edition/Deutsche_Forst_Zeitung/Kh9U6xWX16YC?hl=pl&gbpv=1&bsq=%22Dieckm%C3%BChl%22&dq=%22Dieckm%C3%BChl%22&printsec=frontcover), *Landwirtschaftliches Adreßbuch der Provinz Pommern*, 1939, s. [127](https://books.google.pl/books?id=LzgDEAAAQBAJ&pg=PA127&lpg=PA127&dq=%22Dieckm%C3%BChl%22+f%C3%B6rsthaus&source=bl&ots=0Ic7UYgUS7&sig=ACfU3U2qHK4hYlKTobiwiLSKqKbhp7Is6Q&hl=pl&sa=X&ved=2ahUKEwjw8tKisbmCAxWrRvEDHTwPBq84ChDoAXoECAMQAw#v=onepage&q=%22Dieckm%C3%BChl%22&f=false)
 Metrykalia: [1911](https://www.pommerscher-greif.de/datenbanken/greif-index/detaildatensatz-greifx/?id=CM-00169485)
 # Leśniczowie po 1945 roku
-W czasach polskich leśnictwo Bącznik ustanowiono w 1997 roku. Wcześniej jego tereny były podzielone między leśnictwa Zabrodzie (zob. [[Zabród – Leśniczowie]]) i Strumiany. Leśnictwo Zabrodzie sięgało do połowy drogi pożarowej, która biegnie w lesie pomiędzy między Bącznikiem a chociwelką. Dolna część lasu, bliżej chociwelki, należała do leśnictwa Strumiany.
+W czasach polskich Bącznik przez długie lata nie był uznawany przez administrację za samodzielną osadę, a znajdujące się tam domy były adresowane do Bolechowa. Przez pewien czas istniało leśnictwo Bolechowo: notowane jest w roku 1949 (gdy Stanisław Radłowski otrzymał „[asygnację na zakup leżaniny poniemieckiej](https://zbioryspoleczne.pl/dokumenty/PL_2258_05_01_01_10)”) oraz 1955. Leśniczym był tam niejaki Mackiewicz, który zginął tragicznie i nie bez udziału osób trzecich (kiedyś może o tym napiszę, na razie mam zbyt mało informacji).
+
+Później leśnictwo Bolechowo zniesiono i do roku 1997, gdy zostało ustanowione leśnictwo Bącznik, okoliczne lasy pozostawały podzielone między leśnictwa Zabrodzie (zob. [[Zabród – Leśniczowie]]) i Strumiany. Leśnictwo Zabrodzie sięgało do połowy drogi pożarowej, która biegnie w lesie pomiędzy między Bącznikiem a chociwelką. Dolna część lasu, bliżej chociwelki, należała do leśnictwa Strumiany.
 ## Janusz Herba
-Ukończył studia leśne, pracował jako inżynier nadzoru w Nadleśnictwie Kliniska. Od 1997 roku nieprzerwanie kieruje leśnictwem w Bączniku (stan na 2026).
+Od 1997 roku nieprzerwanie kieruje leśnictwem w Bączniku (stan na 2026). Ukończył studia leśne, przed objęciem posady leśniczego pracował jako inżynier nadzoru w Nadleśnictwie Kliniska. 
 
 ----
 <p style="text-align: center;">

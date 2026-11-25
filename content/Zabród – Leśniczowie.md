@@ -34,7 +34,7 @@ Tu pojawia się zagadka, bo po Ernście Wilhelmie Colellu posadę leśniczego ob
 Leśniczymi zostało przynajmniej dwóch synów Ernsta WIlhelma, ale żaden z nich nie jest idealnym kandydatem do rozwiązania zagadki:
 
 ### A. Ernst Wilhelm Carl Gottlieb Colell
-ur. 7 sierpnia 1832, Goleniów)
+ur. 7 sierpnia 1832, Goleniów
 
 Gdyby nie trzecie i czwarte imię, trudno byłoby odróżnić go od ojca (zob. drzewko na [FamilySearch](https://www.familysearch.org/en/tree/person/details/MZZX-2VJ)). Był leśniczym w podgoleniowskim Schnittsoll, czyli dzisiejszych Twarogach (jako taki wzmiankowany w latach 1866–1873). W roku 1902 wraz z żoną Agnes Johanne Caroline Marie z domu Funke spisał testament, dzisiaj przechowywany w Archiwum Państwowym w Szczecinie.
 
@@ -65,6 +65,14 @@ ur. 12 września 1920, zm. 10 lipca 2010
 W 1945 roku odpowiedzialny za organizację Nadleśnictwa Goleniów, później przez 15 lat kierował leśnictwem Bukowina (obecnie leśnictwo Zabrodzie). Współzałożyciel Kółka Rolniczego i Banku Spółdzielczego w Goleniowie. W 2006 roku odznaczony tytułem Zasłużonego Mieszkańca Gminy Goleniów. Zob. zdjęcie grobu na stronie [Grobonet](https://grobonet.com/index.php?page=pochowany&poch=11087002502&others=1).
 
 Źródła: [*Uchwała Nr XLV/545/06 w sprawie nadania tytułu Zasłużonego Mieszkańca Gminy Goleniów dla Pana Ludwika Grycza*](https://bip.goleniow.pl/strony/14415.dhtml); [*Zasłużeni Mieszkańcy Gminy Goleniów*](http://goleniow.pl/component/k2/item/33-zas%C5%82u%C5%BCeni-mieszka%C5%84cy-gminy-goleni%C3%B3w)
+
+## Wacław Czyżewski
+ur. 10 września 1931, Karolówka (dziś Ukraina), zm. 21 sierpnia 2006
+
+Leśniczym w Zabrodziu został gdzieś w latach 50. Wcześniej pozostawał na leśniczówce w Borowiku k. Widzieńska, a później, w roku 1962, został powołany na urząd nadleśniczego w Trzebieży. Zrobił karierę, zostając nawet posłem na sejm PRL VII i VIII kadencji. Piszą o tym na [Wikipedii](https://pl.wikipedia.org/wiki/Wac%C5%82aw_Czy%C5%BCewski_(polityk)), więc ja nie będę się rozpisywał. Pochowany w Trzebieży (zob. [Grobonet](https://grobonet.com/p/police/9872/waclaw-czyzewski-1931-police)).
+
+Swoją drogą gajowym w tym samym czasie miał być niejaki Leon Kierys (1916–1997, zob. [Grobonet](https://grobonet.com/p/goleniow/10155/leon-kierys-1916-goleniow)). Ponoć nie żyli w najlepszej zgodzie.
+
 ## Antoni Jankowiak
 ur. 22 listopada 1935, zm. 25 grudnia 2018
 

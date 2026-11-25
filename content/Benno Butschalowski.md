@@ -22,3 +22,10 @@ Na początku 1945 roku mieszkańcy zaczęli odczuwać zbliżający się front �
 Wieś została ewakuowana 5 marca – wobec zbliżającego się frontu decyzja została podjęta nagle, Mieszkańcy spakowali tylko najpotrzebniejsze rzeczy i udali się z nimi na miejsce zbiórki przed szkołą. Tam stały już zaparkowane wojskowe furgonetki, które przewiozły ich najpierw do lasu – by uniknąć ataku z powietrza – a później, pod osłoną nocy, aż na dworzec w Szczecinie. Pociągiem udali się do Stralsundu, gdzie przez kilka tygodni pozostawali jako uchodźcy. Benno został skierowany do kopania rowów przeciwpancernych. Następnie zostali przeniesieni do wsi Lendershagen (ob. gmina Velgast), gdzie doczekali końca wojny.
 
 W czerwcu 1946 roku usłyszeli, że mogą wracać do swoich domów. Matka wraz z trzema synami dotarła więc pociągiem do Stargardu, a stamtąd piechotą do Stawna. Jednak we własnym domu dane im było pozostać tylko przez kilka dni – uzbrojeni polscy żołnierze obwieścili im, że ziemie te stały się terytorium Polski i nakazali opuszczenie miejscowości. Rodzina udała się więc pieszo do Lubczyny, a stamtąd łodzią do Polic. Ich miejscem schronienia po drugiej stronie granicy stało się Wallmow w Uckermark.
+
+----
+<p style="text-align: center;">
+<small>
+Zebrał & opisał Jan Borowski. Licencja CC-BY-SA 4.0.</br>
+Masz więcej informacji? Znalazłeś błąd? Napisz: <a href="mailto:borssuk@tuta.com">borssuk@tuta.com</a>.
+</small>

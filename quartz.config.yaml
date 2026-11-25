@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Borssuk/Nora
-  pageTitleSuffix: " –  strona domowa Jana Borowskiego"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics: null
@@ -230,8 +230,6 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50
